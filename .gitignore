@@ -1,6 +1,6 @@
 # Folders
-./bin
-./libs/obj
+bin/
+libs/obj/
 
 # Prerequisites
 *.d
